@@ -1,5 +1,5 @@
 # Jan Krahl
-German-Spanish Computer Engineering student, with experience in web development and automation projects
+Freelance German-Spanish developer, Computer Engineering student, with experience in web development and automation projects.
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/jan-krahl/)
 - [Github](https://github.com/jkrahl)
@@ -13,6 +13,11 @@ German-Spanish Computer Engineering student, with experience in web development 
 
 - High school final project: Development of a web app using Golang and GCP
 
+## Experience
+### 2023: Freelance IT manager and Partner
+- KRAHL & PARTNER CONSULTING S.L.
+- Computer system management
+
 ## Languages
 - German: Native
 - Spanish: Native
@@ -21,9 +26,9 @@ German-Spanish Computer Engineering student, with experience in web development 
 
 ## Skills
 - Golang
+- Unix/Linux
 - JavaScript/TypeScript
 - REST
-- Unix/Linux
 - Git
 - Analytical thinking
 - Autonomy and self-direction
