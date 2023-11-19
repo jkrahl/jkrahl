@@ -1,6 +1,5 @@
 # Jan Krahl
-> Back-End Developer
-
+German-Spanish Computer Engineering student, with experience in web development and automation projects
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/jan-krahl/)
 - [Github](https://github.com/jkrahl)
@@ -13,6 +12,12 @@
 - [Granés Batxillerat](https://batxilleratgranes.com/)
 
 - High school final project: Development of a web app using Golang and GCP
+
+## Languages
+- German: Native
+- Spanish: Native
+- English: Fluent
+- Catalan: Fluent
 
 ## Skills
 - Golang
