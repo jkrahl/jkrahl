@@ -1,5 +1,7 @@
 # Jan Krahl
 Freelance German-Spanish developer, Computer Engineering student, with experience in web development and automation projects.
+
+![GitHub Trends](https://api.githubtrends.io/user/svg/jkrahl/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/jan-krahl/)
 - [Github](https://github.com/jkrahl)
